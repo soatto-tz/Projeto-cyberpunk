@@ -29,22 +29,7 @@ main{
     float: left;
     background: #fff;
     margin-left: 4.16%;
-    margin-top: 2.5vh;
-    border-radius: 12px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
-.personagem img{
-    height: 100%;
-    width: auto;
-    filter: grayscale(100%);
-    transition: filter 0.5s ease;
-
-}.personagem img:hover{
-    filter: grayscale(0%);
-}
-    
 #video{
     width: 100%;
     height: 50vh;
